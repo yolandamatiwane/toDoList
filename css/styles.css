@@ -1,0 +1,27 @@
+div{
+    background-color: rgba(239, 141, 233, 0.318);
+    width: 400px;
+    align-content: center;
+}
+input{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+#sort,#add{
+    width: 90px;
+    height: 50px;
+    border-radius: 10px;
+}
+span{
+    background-color: rgb(208, 93, 200);
+    border-radius: 20px;
+}
+input[type="checkbox"]{
+    width: 20px;
+}
+/* p{
+    width: 200px;
+    background-color: rgb(208, 93, 200);
+    height: 50px;
+} */
